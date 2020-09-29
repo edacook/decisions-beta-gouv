@@ -5,7 +5,7 @@ Task force créée le 29/09/20
 ## Impliqué.e.s :
 - Elie Daviron
 
-## [📠Nous contacter](https://startups-detat.slack.com/archives/C01BZ6C5X1P)
+## [📠 Nous contacter](https://startups-detat.slack.com/archives/C01BZ6C5X1P)
 
 ## Problème : 
 
@@ -18,11 +18,11 @@ Décrire et rendre visible le processus de décision à béta.gouv.fr
 ## Dès maintenant : 
 
 - en menant des entretiens avec les membres de la communauté pour faire émmerger les processus informels et les points de frustration,
-- en retranscrivant ce processus sous forme de kanban pour rendre visible le travail de décision. [⚙️Le kanban](https://trello.com/b/EscV8Zo6/betagouvfr-d%C3%A9cisions)
+- en retranscrivant ce processus sous forme de kanban pour rendre visible le travail de décision. [⚙️ Le kanban](https://trello.com/b/EscV8Zo6/betagouvfr-d%C3%A9cisions)
 
 ## A plus long terme : 
 
 - en communiquant sur le processus pour permettre l'engagement aux différentes étapes,
 - en pointant les silos et les goulots d'étranglement pour améliorer le processus.
 
-## [🔎Nos prochaines actions](https://github.com/edacook/decisions-beta-gouv/projects/1)
+## [🔎 Nos prochaines actions](https://github.com/edacook/decisions-beta-gouv/projects/1)
