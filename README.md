@@ -25,3 +25,4 @@ décrire et rendre visible le processus de décision à béta.gouv.fr
 - en communiquant sur le processus pour permettre l'engagement aux différentes étapes,
 - en pointant les silos et les goulots d'étranglement pour améliorer le processus.
 
+## [🔎Nos prochaines actions](https://github.com/edacook/decisions-beta-gouv/projects/1)
