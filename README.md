@@ -5,7 +5,7 @@ Task force créée le 29/09/20
 ## Impliqué.e.s :
 - Elie Daviron
 
-## [Nous contacter] (https://startups-detat.slack.com/archives/C01BZ6C5X1P)
+## [📠Nous contacter](https://startups-detat.slack.com/archives/C01BZ6C5X1P)
 
 ## Problème : la task force "Engagement" a identifié la forme des prises de décision comme un frein à lengagement.
 
