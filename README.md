@@ -11,7 +11,7 @@ Objectif : décrire et rendre visible le processus de décision à béta.gouv.fr
 Dès maintenant : 
 
 - en menant des entretiens avec les membres de la communauté pour faire émmerger les processus informels et les points de frustration,
-- en retranscrivant ce processus sous forme de kanban pour rendre visible le travail de décision.
+- en retranscrivant ce processus sous forme de kanban pour rendre visible le travail de décision. [⚙️Le kanban](https://trello.com/b/EscV8Zo6/betagouvfr-d%C3%A9cisions)
 
 A plus long terme : 
 
