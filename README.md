@@ -9,11 +9,11 @@ Task force créée le 29/09/20
 
 ## Problème : 
 
-la task force "Engagement" a identifié la forme des prises de décision comme un frein à lengagement.
+La task force "Engagement" a identifié la forme des prises de décision comme un frein à lengagement.
 
 ## Objectif :
 
-décrire et rendre visible le processus de décision à béta.gouv.fr
+Décrire et rendre visible le processus de décision à béta.gouv.fr
 
 ## Dès maintenant : 
 
