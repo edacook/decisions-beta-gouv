@@ -21,8 +21,11 @@ Si cette question vous intéresse, deux options (je vous laisse en proposer une 
 - rejoindre la task force
 - nous proposer un retour d'expérience pour enrichir notre vision du processus actuel de décision
 
-[le canal incubateur-décision](https://startups-detat.slack.com/archives/C01BZ6C5X1P)
-[Le github de la task force](https://github.com/edacook/decisions-beta-gouv/projects/1)
-[le Kanban qui décrit le processus de décision (très rudimentaire à ce stade et qui va évoluer très vite)](https://trello.com/b/EscV8Zo6/betagouvfr-d%C3%A9cisions)
+Les liens : 
+
+- [le canal incubateur-décision](https://startups-detat.slack.com/archives/C01BZ6C5X1P)
+- [Le github de la task force](https://github.com/edacook/decisions-beta-gouv/projects/1)
+- [le Kanban qui décrit le processus de décision (très rudimentaire à ce stade et qui va évoluer très vite)](https://trello.com/b/EscV8Zo6/betagouvfr-d%C3%A9cisions)
 
 Merci de votre attention, à très vite ! 
+Elie
