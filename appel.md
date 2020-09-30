@@ -1,6 +1,6 @@
 Bonjour à toutes et à tous, 
 
-Je suis Elie et j'ai rejoins la communauté de beta début septembre pour rejoindre l'investigation Auto-Partage.  
+Je suis Elie et j'ai rejoins la communauté de beta début septembre en embarquant dans l'investigation Auto-Partage.  
 
 Afin de mieux comprendre le focntionnement de beta, j'ai rejoins la task force "Engagement". 
 
