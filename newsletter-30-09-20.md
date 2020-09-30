@@ -6,6 +6,6 @@ Un groupe se crée pour étudier ces processus. Intéressés pour rejoindre la r
 
 Les liens : 
 
-- [le canal incubateur-décision](https://startups-detat.slack.com/archives/C01BZ6C5X1P)
+- [#tmp-taskforce-decisions](https://startups-detat.slack.com/archives/C01BZ6C5X1P)
 - [Le github de la task force](https://github.com/edacook/decisions-beta-gouv/projects/1)
 - [le Kanban qui décrit le processus de décision (très rudimentaire à ce stade et qui va évoluer très vite)](https://trello.com/b/EscV8Zo6/betagouvfr-d%C3%A9cisions)
