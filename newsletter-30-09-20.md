@@ -1,18 +1,8 @@
 ### Création de la Task Force Décisions
 
-Je suis Elie et j'ai rejoins la communauté de beta début septembre en embarquant dans l'investigation Auto-Partage.  
+La Task Force "Engagement" qui étudie les motivaitons et les freins à l'engagement dans la communauté a identifié au moins un point de frotement : les processus de décision au sein de la communauté.
 
-Afin de mieux comprendre le focntionnement de beta, j'ai rejoins la task force "Engagement". 
-
-Ce groupe qui étudie les motivaitons et les freins à l'engagement dans la communauté a identifié au moins un point de frotement : les processus de décision.
-
-Une nescessité est apparue : nous avons besoins d'expliciter les processus de décision afin que le plus grand nombre puisse s'y joindre pour préserver l'enthousiasme des membres de la communauté. 
-
-C'est l'objet que se donne la task force créée aujourd'hui et baptisée pour le moment "Décisions". 
-
-Si cette question vous intéresse, deux options (je vous laisse en proposer une troisième ;-) ) : 
-- rejoindre la task force
-- nous proposer un retour d'expérience pour enrichir notre vision du processus actuel de décision
+Un groupe se crée pour étudier ces processus. Intéressés pour rejoindre la réflexion ou nous faire un retour d’expérience sur votre vécu ?
 
 Les liens : 
 
